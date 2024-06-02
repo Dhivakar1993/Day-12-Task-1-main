@@ -8,4 +8,4 @@
 </ul>
 
 <p><b><i>Please find the deployed url of the project below:</i></b></p>
-[https://events-haven.netlify.app/](https://665c478b82d8ef8c46759cbe--gentle-piroshki-251043.netlify.app/)
+https://665c478b82d8ef8c46759cbe--gentle-piroshki-251043.netlify.app/
